@@ -1,0 +1,21 @@
+{
+  "name": "bt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-email": "^1.1.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-bootstrap-email": "^0.1.1",
+    "gulp-livereload": "^4.0.2"
+  }
+}
